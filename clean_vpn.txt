@@ -6,3 +6,5 @@
 #announce: VPN! Работаем стабильно. 
 # Обновлено: 21:35 мск | 22.04.2026
 Будьте в канале t.me/bypassrtp, чтобы узнавать новости и обновления.
+
+vless://7cd8b73d-5f53-4521-b690-9eec798970b6@158.160.98.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20613ms%20%7C%208/10%20%7C%20t.me/bypassrtp
